@@ -1,0 +1,7 @@
+@misc{airbus-ship-detection,
+    author = {inversion, Jeff Faudi, Martin},
+    title = {Airbus Ship Detection Challenge},
+    publisher = {Kaggle},
+    year = {2018},
+    url = {https://kaggle.com/competitions/airbus-ship-detection}
+}
